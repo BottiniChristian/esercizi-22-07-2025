@@ -49,3 +49,12 @@ animation: imgFadeIn 0.7s ease;
 img:hover {
 box-shadow: 0 4px 16px rgba(50, 50, 100, 0.18);
 }
+footer {
+border-radius: 10px;
+}
+.welcome-alert {
+  border-radius: 12px;
+}
+.rounded-navbar {
+  border-radius: 10px;
+}
