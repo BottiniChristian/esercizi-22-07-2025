@@ -1,0 +1,59 @@
+[
+  {
+    "asin": "B01N5IB20Q",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "category": "fantasy",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51UoqRAxwEL.jpg",
+    "price": 9.99
+  },
+  {
+    "asin": "B07FDJMC9Q",
+    "title": "The Elven Chronicles: Rise of Eldor",
+    "category": "fantasy",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51b5YG6Y1rL._SX331_BO1,204,203,200_.jpg",
+    "price": 12.50
+  },
+  {
+    "asin": "B079G3YQ3D",
+    "title": "The Shadow King's Curse",
+    "category": "fantasy",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1705008161i/205216171.jpg",
+    "price": 11.99
+  },
+  {
+    "asin": "B082XY44F6",
+    "title": "Witchlight: The Blood Moon Prophecy",
+    "category": "fantasy",
+    "img": "https://m.media-amazon.com/images/I/91I4N6oDMBL._UF1000,1000_QL80_.jpg",
+    "price": 10.49
+  },
+  {
+    "asin": "B07S9K6VZV",
+    "title": "Throne of Shadows",
+    "category": "fantasy",
+    "img": "https://m.media-amazon.com/images/I/91T0BcrfV8L._UF1000,1000_QL80_.jpg",
+    "price": 9.89
+  },
+  {
+    "asin": "B099N6R3YZ",
+    "title": "The Crystal Mage Saga",
+    "category": "fantasy",
+    "img": "https://m.media-amazon.com/images/I/81clhLdJRdL._UF1000,1000_QL80_.jpg",
+    "price": 15.20
+  },
+  {
+    "asin": "B08D6VF9GB",
+    "title": "The Enchanted Heir",
+    "category": "fantasy",
+    "img": "https://m.media-amazon.com/images/I/91oETtPUC+L._UF1000,1000_QL80_.jpg",
+    "price": 12.00
+  },
+  {
+    "asin": "B07YFPK7ZJ",
+    "title": "Realmwalker: Legacy of Fire",
+    "category": "fantasy",
+    "img": "https://m.media-amazon.com/images/I/81y6XMns8-L._UF1000,1000_QL80_.jpg",
+    "price": 13.30
+  }
+]
+
