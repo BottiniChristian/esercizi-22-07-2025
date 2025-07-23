@@ -1,16 +1,17 @@
 import MyNav from './components/MyNav';
 import MyFooter from './components/MyFooter';
 import Welcome from './components/Welcome';
-import AllTheBooks from './components/AlltheBooks';
+import BookList from './components/BookList';
+
+import fantasy from './data/fantasy.json';
 
 const App = () => (
   <>
     <MyNav />
     <Welcome />
-    <AllTheBooks />
+    <BookList books={fantasy} />
     <MyFooter />
   </>
 );
 
 export default App;
-
